@@ -1,2 +1,2 @@
 # data-science-portfolio
-Portfolio of data science projects completed by me for self learning.
+Repository containing portfolio of data science projects completed by self learning purpose, presented in the form of iPython Notebooks.
